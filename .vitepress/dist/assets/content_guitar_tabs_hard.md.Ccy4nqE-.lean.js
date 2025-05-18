@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.NcZqgvTs.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"content/guitar/tabs/hard.md","filePath":"content/guitar/tabs/hard.md"}'),r={name:"content/guitar/tabs/hard.md"};function n(o,s,c,d,i,p){return e(),a("div")}const f=t(r,[["render",n]]);export{m as __pageData,f as default};
